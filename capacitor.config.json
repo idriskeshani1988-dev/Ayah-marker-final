@@ -1,0 +1,9 @@
+{
+  "appId": "com.idris.ayahmarker",
+  "appName": "دیاریکەری ئایەت",
+  "webDir": "www",
+  "backgroundColor": "#0a2b29",
+  "android": {
+    "allowMixedContent": false
+  }
+}
